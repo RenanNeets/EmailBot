@@ -1,0 +1,8 @@
+
+
+Proposta do projeto:
+	Preciso de um robo que entre em um email, baixe mensagens em anexo salvando numa pasta,
+	após isso leia os anexos e os que possuirem códigos de barras serem lançados em uma
+	planilha com o código digitavel do boleto, nome do arquivo, data de vencimento e valor
+
+Tecnologias usadas: PySimpleGUI (para criar a interface)
